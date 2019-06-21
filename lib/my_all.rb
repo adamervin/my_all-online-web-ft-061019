@@ -11,8 +11,7 @@ end
 
 
 
- if panth.include?
-   (false)
+ if panth.include?(false)
     false
   else
     true
