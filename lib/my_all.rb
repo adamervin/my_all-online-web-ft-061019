@@ -9,7 +9,7 @@ i = i + 1
 end
 
 if 
-  panth.include?
+  panth.include?.odd?
   (false)
   false
 else
