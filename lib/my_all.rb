@@ -6,6 +6,13 @@ panth <<
 yield(collection[i])
 i = i + 1 
 
+end
 
+if 
+  panth.include?
+  (false)
+  false
+else
+  true 
 end
 end
