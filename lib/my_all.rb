@@ -9,7 +9,7 @@ i = i + 1
 end
 
 if 
-  panth.include?{ |i| .even?}
+  panth.include?{ |i| i.even?}
   (false)
   false
 else
