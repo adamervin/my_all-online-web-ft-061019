@@ -11,7 +11,8 @@ end
 
 
 
- if block_return_values.include?({|i| i.odd?})
+ if block_return_values.include?
+   (false)
     false
   else
     true
